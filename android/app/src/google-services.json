@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308605733250",
+    "project_id": "quick-chat-aa380",
+    "storage_bucket": "quick-chat-aa380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308605733250:android:955b8c6263566c71db679b",
+        "android_client_info": {
+          "package_name": "com.example.quick_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308605733250-glmntp237ect138hkiujkji7cchh8a8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYBE7QfknQK3guwBMmJQvoExIs-n28tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308605733250-glmntp237ect138hkiujkji7cchh8a8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
